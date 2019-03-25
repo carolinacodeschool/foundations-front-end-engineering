@@ -1,4 +1,4 @@
-![banner image](./images/day-1-img-1.png)
+![banner image](./../images/day-1-img-1.png)
 
 ## Welcome to Foundations: Front-end Engineering ##
 
@@ -56,7 +56,7 @@ With HTML, the same content is formatted in a way that's readable and meaningful
 ```
 The code above looks like this when rendered by a browser:
 
-![editor](./images/day-1-img-7.png)
+![editor](./../images/day-1-img-7.png)
 
 ## Creating, Editing, and Viewing HTML Files
 
@@ -83,9 +83,9 @@ The code above looks like this when rendered by a browser:
 
 In HTML, content is written using **tags**. Tags can be "wrapped" around content, as with a `<p>` tag, where an opening `<p>` is at the beginning of the paragraph and a `</p>` tag is at the end, or tags can be self-closing, such as the `<img>` tag.
 
-![html tags](./images/day-1-img-2.jpg)
+![html tags](./../images/day-1-img-2.jpg)
 
-![html tags](./images/day-1-img-8.png)
+![html tags](./../images/day-1-img-8.png)
 
 ### Boilerplate HTML
 
@@ -96,7 +96,7 @@ A typical HTML document needs a few basic things to work:
 * `<head></head>` tags
 * `<body></body>` tags
 
-![boilerplate html](./images/day-1-img-3.jpg)
+![boilerplate html](./../images/day-1-img-3.jpg)
 
 Make sure you have this "boilerplate" markup handy as you work on HTML projects. Many code editors provide **snippets** to quickly insert this into a new HTML file.
 ```
@@ -109,7 +109,7 @@ Make sure you have this "boilerplate" markup handy as you work on HTML projects.
 </body>
 </html>
 ```
-![caution](./images/day-1-img-9.png)
+![caution](./../images/day-1-img-9.png)
 
 ### A Few Very Common HTML Elements
 
@@ -125,7 +125,7 @@ Without a doubt, you'll see some HTML elements much more often than others. Some
 
 Many of the tags you'll write in HTML will have attributes, and some tags will do almost nothing if they don't have attributes. Attributes are written like this:
 
-![html attributes](./images/day-1-img-4.jpg)
+![html attributes](./../images/day-1-img-4.jpg)
 
 One of the most important HTML attributes is `class`. You'll often see examples like this:
 ```
@@ -150,11 +150,11 @@ As you've seen from the examples we've looked at, plain HTML has very little sty
 
 **CSS**, which is short for "Cascading Style Sheets", allows us to specify general styles to a subset of elements. CSS code generally lives in separate files known as **stylesheets**. This pattern is powerful, in that we can store all of a site's styles in one file, even if the site consists of many pages.
 
-![editor](./images/day-1-img-5.jpg)
+![editor](./../images/day-1-img-5.jpg)
 
 Here, we've added a stylesheet to the example from above. Notice the difference!
 
-![css basics](./images/day-1-img-12.png)
+![css basics](./../images/day-1-img-12.png)
 
 ## Steps Creating, Editing, and Viewing CSS Files
 
@@ -181,7 +181,7 @@ To start using the styles from an external stylesheet, a special HTML tag is req
 ```
 If you correctly linked your file, refreshing your index.html file in Chrome should now display your webpage with a red background.
 
-![warning](./images/day-1-img-10.png)
+![warning](./../images/day-1-img-10.png)
 
 ## CSS Syntax
 
@@ -191,9 +191,9 @@ Styling HTML with a CSS **rule** usually involves three things:
 * one or more **properties** that specify which styles should be changed
 * one **value** per property that specifies what the style should be
 
-![banner image](./images/day-1-img-6.jpg)
+![banner image](./../images/day-1-img-6.jpg)
 
-![declaration note](./images/day-1-img-11.png)
+![declaration note](./../images/day-1-img-11.png)
 
 ## Using CSS selectors
 
@@ -213,7 +213,7 @@ Notice the dot (`.`) before larger-text in the CSS? This small distinction is im
 
 Here's a rendered example:
 
-![editor](./images/day-1-img-13.png)
+![editor](./../images/day-1-img-13.png)
 
 ## Common CSS Properties
 
