@@ -1,0 +1,24 @@
+## Lesson 1 Assignment
+
+### Description
+
+One of the basic, foundational skills of a professional web developer is the ability to translate a designer's mockup image into a webpage with HTML and CSS. This is what you will be doing over the course of 6 evenings.
+
+This is the assignment for day 1.
+
+### Details
+
+Starting with this **[mockup]()**, create the HTML and CSS for the following:
+
+1. The site header
+2. The product image area
+3. The product pricing and description area
+4. The footer
+
+We haven't covered layout yet or how to move elements around, so for now just focus on writing the HTML for each area and adding some basic styles to it.
+
+### Deliverables
+
+1. Create a new project directory
+2. Push your work to GitHub
+3. Post the link to your GitHub project directory in Slack
