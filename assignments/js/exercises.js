@@ -6,7 +6,7 @@ function addNumbers(numberA, numberB) {
   console.log(numberA + numberB);
 }
 
-var twoPlusTwo = addNumbers(2, 2)
+const twoPlusTwo = addNumbers(2, 2)
 
 console.log(twoPlusTwo) // 4
 
@@ -22,7 +22,7 @@ console.log(twoPlusTwo) // 4
 
 // Exercise 3
 // Write a function called longest that returns the longest of two input strings
-//or arrays.
+// or arrays.
 
 
 
